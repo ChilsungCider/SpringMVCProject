@@ -1,1 +1,1 @@
-# SpringCRUD
+# SpringMVCProject
